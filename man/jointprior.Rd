@@ -96,14 +96,8 @@ deriving local parameter priors.
 Shachter, R.D. and Kenley, C.R. (1989), Gaussian influence diagrams. Management
     Science, 35:527-550.
     
-  Further information about \bold{deal} can be found at:\cr
-  \url{http://www.math.aau.dk/~dethlef/novo/deal}.
 }
 
-% \references{
-%   Further information about \bold{deal} can be found at:\cr
-%   \url{http://www.math.aau.dk/~dethlef/novo/deal}.
-% }
 
 \author{
   Susanne Gammelgaard Bottcher, \cr

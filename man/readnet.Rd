@@ -5,8 +5,7 @@
 %- Also NEED an `\alias' for EACH other topic documented here.
 \title{Reads/saves .net file}
 \description{
-Reads/saves a Bayesian network specification in the \code{.net} language (see
-\url{http://developer.hugin.com/documentation/net/}).
+Reads/saves a Bayesian network specification in the \code{.net} language used by Hugin.
 }
 \usage{
 readnet(con=file("default.net"))

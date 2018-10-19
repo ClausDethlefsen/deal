@@ -44,7 +44,7 @@ numbermixed(nd,nc)
 
 \references{
   Bottcher, S.G. (2003). Learning Conditional Gaussian
-  Networks. \url{http://www.math.aau.dk/~alma}. Aalborg University, 2003.
+  Networks. Aalborg University, 2003.
 
   Robinson, R.W. (1977). Counting unlabeled acyclic digraphs, Lecture
   Notes in Mathematics, 622: Combinatorial Mathematics.
