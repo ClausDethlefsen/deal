@@ -1,6 +1,6 @@
 Package: deal
-Version: 1.2-37
-Date: 2013-01-28
+Version: 1.2-38
+Date: 2018-11-01
 Title: Learning Bayesian Networks with Mixed Variables
 Author: Susanne Gammelgaard Bottcher, Claus Dethlefsen.
 Maintainer: Claus Dethlefsen <rpackage.deal@gmail.com>

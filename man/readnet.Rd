@@ -34,13 +34,14 @@ savenet(nw, con=file("default.net"))
 
   \code{savenet} writes the object to the connection.
 }
+% \references{
+%   Further information about \bold{deal} can be found at:\cr
+%   \url{http://www.math.aau.dk/~dethlef/novo/deal}.
+% }
+
 \author{
-  Susanne Gammelgaard Bottcher \email{alma@math.aau.dk}, \cr
-  Claus Dethlefsen \email{cld@rn.dk}.
-}
-\references{
-  Further information about \bold{deal} can be found at:\cr
-  \url{http://www.math.aau.dk/~dethlef/novo/deal}.
+  Susanne Gammelgaard Bottcher, \cr
+  Claus Dethlefsen \email{rpackage.deal@gmail.com}.
 }
 
 \note{The call to \code{readnet(savenet(network))} is \emph{not} the identity
