@@ -1,3 +1,4 @@
+[![CRAN version](http://www.r-pkg.org/badges/version/deal)](https://cran.r-project.org/package=deal)
 
 deal
 ----
